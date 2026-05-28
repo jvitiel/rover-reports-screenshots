@@ -1,0 +1,66 @@
+{
+  "selector": ".stats-bar > *:nth-child(1)",
+  "matchCount": 1,
+  "element": {
+    "tag": "div",
+    "id": null,
+    "classes": [
+      "stat-card",
+      "clickable",
+      "compact",
+      "active"
+    ],
+    "attributes": {
+      "onclick": "filterBySpecies('all')",
+      "data-filter": "all"
+    },
+    "childCount": 3,
+    "textPreview": "All\n              127\n              28 with data",
+    "boundingBox": {
+      "x": 384,
+      "y": 124,
+      "width": 95,
+      "height": 77
+    },
+    "computedStyles": {
+      "display": "block",
+      "position": "static",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(135deg, rgb(255, 247, 237) 0%, rgb(255, 237, 213) 100%) repeat scroll 0% 0% / auto padding-box border-box",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "padding": "8px 16px",
+      "margin": "0px",
+      "fontSize": "16px",
+      "fontFamily": "\"DM Sans\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif",
+      "color": "rgb(17, 24, 39)",
+      "width": "95px",
+      "height": "76.8438px",
+      "maxWidth": "none",
+      "overflow": "visible",
+      "zIndex": "auto",
+      "opacity": "1"
+    },
+    "parentChain": [
+      {
+        "tag": "div",
+        "id": "statsBar",
+        "classes": [
+          "stats-bar"
+        ]
+      },
+      {
+        "tag": "div",
+        "id": null,
+        "classes": [
+          "profiles-header-left"
+        ]
+      },
+      {
+        "tag": "div",
+        "id": null,
+        "classes": [
+          "profiles-header"
+        ]
+      }
+    ]
+  }
+}
