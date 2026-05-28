@@ -1,3 +1,4 @@
+2026-05-28T23:02:30Z | measure | child2 | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-28-230230-child2-measure.txt
 2026-05-28T23:02:16Z | measure | child1 | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-28-230216-child1-measure.txt
 2026-05-28T23:01:57Z | measure | stats-bar-layout | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-28-230157-stats-bar-layout-measure.txt
 2026-05-28T22:58:46Z | screenshot | a4-pill-inline-with-cards | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-28-225846-a4-pill-inline-with-cards-1440x900.png
