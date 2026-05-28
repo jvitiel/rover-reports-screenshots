@@ -1,3 +1,4 @@
+2026-05-28T22:58:46Z | screenshot | a4-pill-inline-with-cards | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-28-225846-a4-pill-inline-with-cards-1440x900.png
 2026-05-28T22:57:30Z | measure | profiles-location-pill-width | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-28-225730-profiles-location-pill-width-measure.txt
 2026-05-28T22:57:06Z | measure | pill-width | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-28-225706-pill-width-measure.txt
 2026-05-28T22:56:47Z | measure | count-card-width | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-28-225647-count-card-width-measure.txt
