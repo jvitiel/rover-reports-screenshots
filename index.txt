@@ -1,3 +1,4 @@
+2026-05-28T23:09:39Z | measure | pill-multiline-width | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-28-230939-pill-multiline-width-measure.txt
 2026-05-28T23:03:13Z | measure | profiles-header | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-28-230313-profiles-header-measure.txt
 2026-05-28T23:02:56Z | measure | child6-search | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-28-230256-child6-search-measure.txt
 2026-05-28T23:02:43Z | measure | child5-pill | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-28-230243-child5-pill-measure.txt
