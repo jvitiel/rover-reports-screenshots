@@ -1,0 +1,60 @@
+{
+  "selector": ".stats-bar > *:nth-child(6)",
+  "matchCount": 1,
+  "element": {
+    "tag": "div",
+    "id": null,
+    "classes": [
+      "search-qr-section"
+    ],
+    "attributes": {},
+    "childCount": 2,
+    "textPreview": "🔍 Find Animal\n                🏷️ Print QR Code",
+    "boundingBox": {
+      "x": 384,
+      "y": 261,
+      "width": 500,
+      "height": 66
+    },
+    "computedStyles": {
+      "display": "flex",
+      "position": "static",
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "padding": "12px 16px",
+      "margin": "0px",
+      "fontSize": "16px",
+      "fontFamily": "\"DM Sans\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif",
+      "color": "rgb(17, 24, 39)",
+      "width": "500.141px",
+      "height": "66px",
+      "maxWidth": "none",
+      "overflow": "visible",
+      "zIndex": "auto",
+      "opacity": "1"
+    },
+    "parentChain": [
+      {
+        "tag": "div",
+        "id": "statsBar",
+        "classes": [
+          "stats-bar"
+        ]
+      },
+      {
+        "tag": "div",
+        "id": null,
+        "classes": [
+          "profiles-header-left"
+        ]
+      },
+      {
+        "tag": "div",
+        "id": null,
+        "classes": [
+          "profiles-header"
+        ]
+      }
+    ]
+  }
+}

@@ -1,3 +1,4 @@
+2026-05-28T23:02:56Z | measure | child6-search | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-28-230256-child6-search-measure.txt
 2026-05-28T23:02:43Z | measure | child5-pill | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-28-230243-child5-pill-measure.txt
 2026-05-28T23:02:30Z | measure | child2 | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-28-230230-child2-measure.txt
 2026-05-28T23:02:16Z | measure | child1 | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-28-230216-child1-measure.txt
