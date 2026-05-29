@@ -1,3 +1,4 @@
+2026-05-29T00:15:27Z | screenshot | phase-b-equal-size-en | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-29-001527-phase-b-equal-size-en-1440x900.png
 2026-05-29T00:07:41Z | screenshot | phase-b-matcher-pending-card | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-29-000741-phase-b-matcher-pending-card-1440x900.png
 2026-05-28T23:21:01Z | screenshot | a4-polish-default-adoptable | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-28-232101-a4-polish-default-adoptable-1440x900.png
 2026-05-28T23:10:25Z | screenshot | a4-pill-inline-multiline | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-28-231025-a4-pill-inline-multiline-1440x900.png
