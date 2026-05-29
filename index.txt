@@ -1,3 +1,6 @@
+2026-05-29T19:50:37Z | screenshot | d4-13px-badges-en | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-29-195037-d4-13px-badges-en-mobile.png
+2026-05-29T19:50:37Z | screenshot | d4-13px-badges-es | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-29-195037-d4-13px-badges-es-desktop.png
+2026-05-29T19:50:37Z | screenshot | d4-13px-badges-en | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-29-195037-d4-13px-badges-en-desktop.png
 2026-05-29T19:38:33Z | screenshot | d4-badges-es | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-29-193833-d4-badges-es-mobile.png
 2026-05-29T19:38:33Z | screenshot | d4-badges-en | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-29-193833-d4-badges-en-mobile.png
 2026-05-29T19:38:33Z | screenshot | d4-badges-es | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-29-193833-d4-badges-es-desktop.png
