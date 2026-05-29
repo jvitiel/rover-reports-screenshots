@@ -1,3 +1,4 @@
+2026-05-29T18:48:02Z | measure | info-block-measure | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-29-184802-info-block-measure-measure.txt
 2026-05-29T18:47:12Z | measure | photo-strip-measure | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-29-184712-photo-strip-measure-measure.txt
 2026-05-29T18:47:12Z | measure | avatar-measure | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-29-184712-avatar-measure-measure.txt
 2026-05-29T18:47:13Z | measure | expand-icon-measure | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-29-184713-expand-icon-measure-measure.txt
