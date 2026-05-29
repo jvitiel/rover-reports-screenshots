@@ -1,3 +1,4 @@
+2026-05-29T19:18:19Z | element | d3c-buttons-closeup | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-29-191819-d3c-buttons-closeup-elem-desktop.png
 2026-05-29T19:17:24Z | screenshot | d3c-bonded-button-test | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-29-191724-d3c-bonded-button-test-mobile.png
 2026-05-29T19:17:24Z | screenshot | d3c-bonded-button-test | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-29-191724-d3c-bonded-button-test-desktop.png
 2026-05-29T19:10:18Z | screenshot | d3b-avatar-removed | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-29-191018-d3b-avatar-removed-mobile.png
