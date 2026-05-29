@@ -1,3 +1,4 @@
+2026-05-29T19:24:08Z | element | d3c-aligned-buttons | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-29-192408-d3c-aligned-buttons-elem-desktop.png
 2026-05-29T19:19:09Z | screenshot | d3c-bonded-red-state | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-29-191909-d3c-bonded-red-state-mobile.png
 2026-05-29T19:19:09Z | screenshot | d3c-bonded-red-state | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-29-191909-d3c-bonded-red-state-desktop.png
 2026-05-29T19:18:19Z | element | d3c-buttons-closeup | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-29-191819-d3c-buttons-closeup-elem-desktop.png
