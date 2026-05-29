@@ -1,3 +1,4 @@
+2026-05-29T18:54:52Z | measure | upload-btn-measure | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-29-185452-upload-btn-measure-measure.txt
 2026-05-29T18:54:53Z | measure | adoption-btn-measure | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-29-185453-adoption-btn-measure-measure.txt
 2026-05-29T18:54:52Z | measure | library-btn-measure | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-29-185452-library-btn-measure-measure.txt
 2026-05-29T18:48:02Z | measure | info-block-measure | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-05-29-184802-info-block-measure-measure.txt

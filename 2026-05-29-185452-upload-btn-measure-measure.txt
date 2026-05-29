@@ -1,0 +1,64 @@
+{
+  "selector": ".btn-upload-library",
+  "matchCount": 133,
+  "element": {
+    "tag": "label",
+    "id": null,
+    "classes": [
+      "btn-strip-action",
+      "btn-upload-library"
+    ],
+    "attributes": {
+      "for": "upload-S2025966",
+      "onclick": "event.stopPropagation()"
+    },
+    "childCount": 0,
+    "textPreview": "📤 Upload",
+    "boundingBox": {
+      "x": 1353,
+      "y": 351,
+      "width": 77,
+      "height": 36
+    },
+    "computedStyles": {
+      "display": "flex",
+      "position": "static",
+      "background": "rgb(196, 117, 59) none repeat scroll 0% 0% / auto padding-box border-box",
+      "backgroundColor": "rgb(196, 117, 59)",
+      "padding": "6px 12px",
+      "margin": "0px 0px 0px 8px",
+      "fontSize": "12px",
+      "fontFamily": "\"DM Sans\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif",
+      "color": "rgb(255, 255, 255)",
+      "width": "77px",
+      "height": "36px",
+      "maxWidth": "none",
+      "overflow": "visible",
+      "zIndex": "auto",
+      "opacity": "1"
+    },
+    "parentChain": [
+      {
+        "tag": "div",
+        "id": null,
+        "classes": [
+          "strip-actions-row"
+        ]
+      },
+      {
+        "tag": "div",
+        "id": null,
+        "classes": [
+          "strip-actions-col"
+        ]
+      },
+      {
+        "tag": "div",
+        "id": null,
+        "classes": [
+          "animal-info"
+        ]
+      }
+    ]
+  }
+}
