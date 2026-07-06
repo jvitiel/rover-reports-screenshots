@@ -1,2 +1,3 @@
+2026-07-06T22:19:20Z | measure | events-date-badge | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-07-06-221920-events-date-badge-measure.txt
 2026-07-06T22:19:12Z | measure | events-strip-row | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-07-06-221912-events-strip-row-measure.txt
 2026-07-06T21:35:24Z | measure | event-flyer-size | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-07-06-213524-event-flyer-size-measure.txt

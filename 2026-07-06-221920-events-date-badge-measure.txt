@@ -1,0 +1,60 @@
+{
+  "selector": ".upcoming-events .event-date-badge",
+  "matchCount": 3,
+  "element": {
+    "tag": "div",
+    "id": null,
+    "classes": [
+      "event-date-badge"
+    ],
+    "attributes": {},
+    "childCount": 2,
+    "textPreview": "11\n                            JUL",
+    "boundingBox": {
+      "x": 534,
+      "y": 576,
+      "width": 70,
+      "height": 80
+    },
+    "computedStyles": {
+      "display": "block",
+      "position": "static",
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "padding": "16px 20px",
+      "margin": "0px",
+      "fontSize": "20px",
+      "fontFamily": "\"DM Sans\", -apple-system, sans-serif",
+      "color": "rgb(61, 56, 53)",
+      "width": "70px",
+      "height": "80.3906px",
+      "maxWidth": "none",
+      "overflow": "visible",
+      "zIndex": "auto",
+      "opacity": "1"
+    },
+    "parentChain": [
+      {
+        "tag": "article",
+        "id": "event-440",
+        "classes": [
+          "event-strip"
+        ]
+      },
+      {
+        "tag": "div",
+        "id": null,
+        "classes": [
+          "events-list"
+        ]
+      },
+      {
+        "tag": "div",
+        "id": null,
+        "classes": [
+          "container"
+        ]
+      }
+    ]
+  }
+}
