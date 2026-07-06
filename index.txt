@@ -1,3 +1,4 @@
+2026-07-06T22:19:28Z | measure | events-details | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-07-06-221928-events-details-measure.txt
 2026-07-06T22:19:25Z | measure | events-photo-img | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-07-06-221925-events-photo-img-measure.txt
 2026-07-06T22:19:23Z | measure | events-photo-container | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-07-06-221923-events-photo-container-measure.txt
 2026-07-06T22:19:20Z | measure | events-date-badge | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-07-06-221920-events-date-badge-measure.txt
