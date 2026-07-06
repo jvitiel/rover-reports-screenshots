@@ -1,3 +1,7 @@
+2026-07-06T22:20:51Z | screenshot | events-es-full | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-07-06-222051-events-es-full-mobile.png
+2026-07-06T22:20:51Z | screenshot | events-es-full | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-07-06-222051-events-es-full-desktop.png
+2026-07-06T22:20:24Z | measure | events-noPhoto-details-3 | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-07-06-222024-events-noPhoto-details-3-measure.txt
+2026-07-06T22:20:23Z | measure | events-noPhoto-details-2 | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-07-06-222023-events-noPhoto-details-2-measure.txt
 2026-07-06T22:20:12Z | screenshot | events-en-full | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-07-06-222012-events-en-full-mobile.png
 2026-07-06T22:20:12Z | screenshot | events-en-full | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-07-06-222012-events-en-full-desktop.png
 2026-07-06T22:19:28Z | measure | events-details | https://raw.githubusercontent.com/jvitiel/rover-reports-screenshots/main/2026-07-06-221928-events-details-measure.txt
